@@ -4,8 +4,8 @@ function Home() {
   return (
     <div>
       <h1>this is divatron</h1>
-      <button>Links</button>
-      <button>About</button>
+      <a href="/Links/">Links</a>
+      <a href="/About/">About</a>
     </div>
   );
 }
